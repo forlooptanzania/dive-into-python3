@@ -1,3 +1,2 @@
-Welcome to #DiveIntoPython3 #WithForLoop
+![](https://raw.githubusercontent.com/forlooptanzania/dive-into-python3/master/assets/banner.png)
 
-> "Don’t bury your burden in saintly silence. You have a problem? Great. Rejoice, dive in, and investigate." — Ven. Henepola Gunaratana
