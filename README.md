@@ -1,13 +1,17 @@
 <div align="center">
-### RSVP NOW
+
+<h3>RSVP NOW</h3>
 
 Please help to confirm your attendance by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZmpD6sMz3VMBumfcnjnQYX3UOJBkkS1DUZwBd4g2tXjkBGQ/viewform). We will only share the meeting link with confirmed attendees.
 
-**Deadline to RSVP:** Thursday, 28th June 2020 23:59. 
-</div>
+<strong>Deadline to RSVP:</strong> Thursday, 28th June 2020 23:59. 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+</div>
+
+---
 
 # Dive Into Python 3
 
