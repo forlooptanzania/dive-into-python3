@@ -1,3 +1,14 @@
+<div align="center">
+### RSVP NOW
+
+Please help to confirm your attendance by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZmpD6sMz3VMBumfcnjnQYX3UOJBkkS1DUZwBd4g2tXjkBGQ/viewform). We will only share the meeting link with confirmed attendees.
+
+**Deadline to RSVP:** Thursday, 28th June 2020 23:59. 
+</div>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Dive Into Python 3
 
 > "Don’t bury your burden in saintly silence. You have a problem? Great. Rejoice, dive in, and investigate." — Ven. Henepola Gunaratana 
